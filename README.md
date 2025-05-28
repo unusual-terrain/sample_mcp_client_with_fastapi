@@ -109,3 +109,11 @@ PRs and issues are welcome. Make sure your code is typed and follows FastAPI bes
 ## 📄 License
 
 MIT
+
+## 🙋 Support
+
+For issues, contact \[[unusual.terrain.9@gmail.com](mailto:unusual.terrain.9@gmail.com)] or raise a GitHub issue.
+
+---
+
+Happy coding! 🎉
