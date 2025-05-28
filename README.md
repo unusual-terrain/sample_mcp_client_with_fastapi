@@ -1,6 +1,6 @@
 # MCP Client with FastAPI and Claude Integration
 
-This project is a **sample MCP (Modular Control Protocol) client** built using **FastAPI**. It demonstrates how to send user queries to **Anthropic Claude**, handle tool usage via a running **MCP server**, and return AI responses in real-time.
+This project is a **sample MCP (Model Context Protocol) client** built using **FastAPI**. It demonstrates how to send user queries to **Anthropic Claude**, handle tool usage via a running **MCP server**, and return AI responses in real-time.
 
 ---
 
