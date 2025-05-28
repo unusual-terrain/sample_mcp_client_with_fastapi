@@ -11,7 +11,7 @@ This project is a **sample MCP (Model Context Protocol) client** built using **F
 ├── main.py          # FastAPI app with /query endpoint
 ├── client.py        # MCPClient class for Claude + MCP interaction
 ├── .env             # Environment variables (Claude API key, etc.)
-├── requirements.txt # Python dependencies
+├── pyproject.toml   # Python dependencies
 └── README.md        # Project documentation
 ```
 
